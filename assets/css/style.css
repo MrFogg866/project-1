@@ -302,5 +302,12 @@ p {
 
     }
 
-    
+    /* form */
+    #signup-form{
+clear: left;
+background: url(../image/sign\ up\ castle.jpeg);
+background-size: cover;
+    background-position: center;
+    height: 900px;
+}
 }
