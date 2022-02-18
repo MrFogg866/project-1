@@ -34,17 +34,21 @@
     
 
        
-<section id="signup-form">
+<section class="form-section">
     
-    <form class="signup-form" method="post" action="https://formdump.codeinstitute.net/">
-        <div><h2>Sign up Here for our newsletter!</h2></div>
+    <form  method="post" action="https://formdump.codeinstitute.net/">
+        <h2>Sign up Here for our newsletter!</h2>
         
         <label for="fname">First Name</label>
-        <input type="text">
+        <input type="text" name="first_name" id="fname" required>
+
         <label for="lname">Last Name</label>
-        <input type="text">
+        <input type="text" name="last_name" id="lname" required>
+
         <label for="email_address">Email Address</label>
-        <input type="email">
+        <input type="email" name="email_address" id="email" required>
+
+        <input class="join-button" type="submit" value="Sign me up!">
     </form>
 
 </section>
