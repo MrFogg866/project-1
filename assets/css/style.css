@@ -22,7 +22,7 @@ h2 {
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #252525;
+    color: #080505;
 
 }
 
@@ -224,13 +224,16 @@ footer {
     width: 50%;
     
 }
-h1 {
+h1  {
     float: right;
+    
 }
-p {
+ p {
     float: right;
-}
-
+    border: solid 1px #000;
+    display: inline-block;
+    width: 30%;
+  }
 /* Form */
 
 .form-section {
@@ -251,7 +254,7 @@ p {
     
     padding:30px;
 }
-h2 {
+form > h2 {
     color: #fafafa;
     font-size: 20px;
     
@@ -363,12 +366,6 @@ h2 {
 
     }
 
-    /* form */
-    #signup-form{
-clear: left;
-background: url(../image/sign\ up\ castle.jpeg);
-background-size: cover;
-    background-position: center;
-    height: 900px;
+   
 }
 }
