@@ -215,8 +215,9 @@ footer {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color: #3a3a3a;
+    color: #070404;
 }
+
 
 /* castles images and information page */
 
@@ -234,17 +235,23 @@ h1  {
     display: inline-block;
     width: 30%;
     position: top right;
+    padding-left: 70%;
     
   }
 /* Form */
 
 .form-section {
+    background-image: url('../image/sign\ up\ castle.jpeg') no-repeat center center;
     
-    background: url(../image/sign\ up\ castle.jpeg);
-    background-size: cover;
-    background-position: center;
 
 }
+
+
+    
+
+
+
+
 .signup-form {
     margin: 150px 10% 0 0;
     color: #fff;
