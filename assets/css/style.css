@@ -228,11 +228,13 @@ h1  {
     float: right;
     
 }
- p {
-    float: right;
+ section > p {
+
     border: solid 1px #000;
     display: inline-block;
     width: 30%;
+    position: top right;
+    
   }
 /* Form */
 
@@ -329,7 +331,14 @@ form > h2 {
         display: none;
     }
     }
+section > p {
+    right: 100%;
+    float: right;
 
+
+
+
+}
   
     /* for medium screen sizes from 950px wide and down */
 @media screen and (max-width: 950px){
@@ -365,7 +374,11 @@ form > h2 {
         padding: 0 20px;
 
     }
+    section > p {
+right: 100%;
+float: right;
+
+    }
 
    
-}
 }
