@@ -235,7 +235,7 @@ p {
 
 .form-section {
     
-    background-color: aqua;
+    background: url(../image/sign\ up\ castle.jpeg);
     background-size: cover;
     background-position: center;
 
@@ -247,6 +247,7 @@ p {
     max-width: 400px;
     position: absolute;
     left:10%;
+    float: left;
     
     padding:30px;
 }
@@ -271,7 +272,7 @@ h2 {
     
 }
 .text-input:hover {
-    border-color: #f16c6b;
+    border-color: burlywood;
 }
 .join-button {
     margin-top: 20px;
@@ -280,14 +281,14 @@ h2 {
     
     text-align: center;
     font-size: 100%;
-    background-color: #f16c6b;
+    background-color: burlywood;
     color:#fafafa;
     display: block;
     
 }
 .join-button:hover {
     background-color:#fafafa ;
-    color:#f16c6b;
+    color:burlywood;
 }
 
 
