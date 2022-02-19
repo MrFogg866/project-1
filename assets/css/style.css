@@ -241,16 +241,12 @@ h1  {
 /* Form */
 
 .form-section {
-    background-image: url('../image/sign\ up\ castle.jpeg') no-repeat center center;
-    
+    background-image: url(../image/sign-up-castle.jpeg);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
 
 }
-
-
-    
-
-
-
 
 .signup-form {
     margin: 150px 10% 0 0;
