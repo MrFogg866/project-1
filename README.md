@@ -3,7 +3,7 @@ Top10 Castles
 
 This website is for history enthusiasts and tourists alike, we will show you our top 10 rated castles in east anglia, you will be able to see images and information about the castles along with direct links to the castles website.
 
-<image> home page
+![Alt Text](../project-1/assets/image/homepage.png)
 
 Features:
 
@@ -48,7 +48,7 @@ Existing Features:
 - The sign-up form allows users to register for a newsletter.
 - Users can enter their first and last name along with their email address and hit the submit button to register for the newsletter.
 
-<image> signup page
+![Alt Text](../project-1/assets/image/signup-page.png)
 
 - Social media icons to redirect to the company’s social media accounts.
 
