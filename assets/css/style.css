@@ -238,15 +238,9 @@ h1  {
     padding-left: 70%;
     
   }
-/* Form */
+/* Form sign up page */
 
-.form-section {
-    background-image: url(../image/sign-up-castle.jpeg);
-    width: 100vw;
-    height: 100vh;
-    display: flex;
 
-}
 
 .signup-form {
     margin: 150px 10% 0 0;
@@ -297,6 +291,16 @@ form > h2 {
 .join-button:hover {
     background-color:#fafafa ;
     color:burlywood;
+}
+
+/* sign up page image */
+
+.form-section {
+    background-image: url(../image/sign-up-castle.jpeg);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+
 }
 
 
