@@ -20,6 +20,8 @@ Existing Features:
 - You will see on the homepage navigation bar 3 links to Home, Castles & Sign-up and this navigation bar is present throughout all pages.
 - This allows users to easily navigate through the site.
 
+![Alt Text](../project-1/assets/image/navigation-bar.png)
+
 
 + Landing Page Image
 
@@ -35,6 +37,8 @@ Existing Features:
 
 - Here the user will find icons to our social media accounts, such as  Facebook, twitter & instagram.
 - The links will open to a new tab to allow easy navigation for the user.
+
+![Alt Text](../project-1/assets/image/footer.png)
 
 + Castle
 
