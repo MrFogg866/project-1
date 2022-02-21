@@ -3,24 +3,25 @@
 
 This website is for history enthusiasts and tourists alike, we will show you our top 10 rated castles in east anglia, you will be able to see images and information about the castles along with direct links to the castles website.
 
-![Alt Text](../project-1/assets/image/homepage.png)
+
 
 ## Features:
 
-This website will feature high quality images of the best castles in east anglia.
+- This website will feature high quality images of the best castles in east anglia.
 
-You will find links to the castles website along with links to our social media pages where we discuss upcoming special events, and share our experiences  went visiting these historic sites.
+- You will find links to the castles website along with links to our social media pages where we discuss upcoming special events, and share our experiences  went visiting these historic sites.
 
-There is also a sign-up feature you can  input your details to be registered to receive our monthly newsletter.
+- There is also a sign-up feature you can  input your details to be registered to receive our monthly newsletter.
 
 ### Existing Features:
+
 
 #### Navigation Bar
 
 - You will see on the homepage navigation bar 3 links to Home, Castles & Sign-up and this navigation bar is present throughout all pages.
 - This allows users to easily navigate through the site.
 
-![Alt Text](../project-1/assets/image/navigation-bar.png)
+![Alt Text](../project-1/assets/image/NAV-HEADER.png)
 
 
 #### Landing Page Image
@@ -29,9 +30,13 @@ There is also a sign-up feature you can  input your details to be registered to 
 - This includes some text over the top .
 - And has been designed to expand when opening to give a moving effect.
 
+![Alt Text](../project-1/assets/image/landing-page.png)
+
 #### About Us Section
 
 - This section provides some information about what you will find on the website, on the trips & lets the user know we have social media accounts.
+
+![Alt Text](../project-1/assets/image/about-us.png)
 
 #### The Footer
 
