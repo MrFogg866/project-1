@@ -296,13 +296,23 @@ form > h2 {
 /* sign up page image */
 
 .form-section {
-    background-image: url('../image/sign-up-castle.jpeg');
+    background-image: url(../image/sign-up-castle.jpeg);
     width: 100vw;
-    height: 100vw;
+    height: 80vw;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
    
 
 }
-
+  
+  
+  @media screen and (max-width: 1024px) { /* Specific to this particular image */
+    img.bg {
+      left: 50%;
+      margin-left: -512px;   /* 50% */
+    }
+  }
 
 /* media quiries */
 
