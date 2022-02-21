@@ -296,10 +296,10 @@ form > h2 {
 /* sign up page image */
 
 .form-section {
-    background-image: url(../image/sign-up-castle.jpeg);
-    width: 100%;
-    height: 100%;
-    background-repeat: no-repeat;
+    background-image: url('../image/sign-up-castle.jpeg');
+    width: 100vw;
+    height: 100vw;
+   
 
 }
 
