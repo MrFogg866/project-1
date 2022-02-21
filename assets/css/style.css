@@ -301,18 +301,16 @@ form > h2 {
     height: 80vw;
     background-position: center center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
+    
+  
    
 
 }
   
   
-  @media screen and (max-width: 1024px) { /* Specific to this particular image */
-    img.bg {
-      left: 50%;
-      margin-left: -512px;   /* 50% */
-    }
-  }
+  
+  
 
 /* media quiries */
 
