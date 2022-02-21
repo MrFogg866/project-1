@@ -1,11 +1,11 @@
-Top10 Castles
+# Top10 Castles
 
 
 This website is for history enthusiasts and tourists alike, we will show you our top 10 rated castles in east anglia, you will be able to see images and information about the castles along with direct links to the castles website.
 
 ![Alt Text](../project-1/assets/image/homepage.png)
 
-Features:
+## Features:
 
 This website will feature high quality images of the best castles in east anglia.
 
@@ -13,9 +13,9 @@ You will find links to the castles website along with links to our social media 
 
 There is also a sign-up feature you can  input your details to be registered to receive our monthly newsletter.
 
-Existing Features:
+### Existing Features:
 
-+ Navigation Bar
+#### Navigation Bar
 
 - You will see on the homepage navigation bar 3 links to Home, Castles & Sign-up and this navigation bar is present throughout all pages.
 - This allows users to easily navigate through the site.
@@ -23,30 +23,30 @@ Existing Features:
 ![Alt Text](../project-1/assets/image/navigation-bar.png)
 
 
-+ Landing Page Image
+#### Landing Page Image
 
 - The  eye catching  Norwich castle image is used for the home page
 - This includes some text over the top .
 - And has been designed to expand when opening to give a moving effect.
 
-+ About Us Section
+#### About Us Section
 
 - This section provides some information about what you will find on the website, on the trips & lets the user know we have social media accounts.
 
-+ The Footer
+#### The Footer
 
 - Here the user will find icons to our social media accounts, such as  Facebook, twitter & instagram.
 - The links will open to a new tab to allow easy navigation for the user.
 
 ![Alt Text](../project-1/assets/image/footer.png)
 
-+ Castle
+#### Castle Page
 
 - Here the user will find 10 of the best castles in east anglia
 - Complete with eye catching images, and a paragraph of text to entice the user to further go into the castle website to get directions and check opening times.
 - All castles official webpage will be linked at the end of the paragraph
 
-+  Newsletter Sign-up Page
+#### Newsletter Sign-up Page
 
 
 - The sign-up form allows users to register for a newsletter.
@@ -57,9 +57,8 @@ Existing Features:
 - Social media icons to redirect to the company’s social media accounts.
 
 
-<image>   sign up page
 
-Testing :
+### Testing 
 
 Validator Testing:
 
@@ -68,7 +67,7 @@ Unfixed Bug:
 Deployment:
 
 
-Credit:
+### Credit:
 
 + content 
 - Fhggfg
