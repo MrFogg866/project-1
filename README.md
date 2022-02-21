@@ -35,6 +35,8 @@ This website is for history enthusiasts and tourists alike, we will show you our
 #### About Us Section
 
 - This section provides some information about what you will find on the website, on the trips & lets the user know we have social media accounts.
+- The English heritage logo is used 
+ 
 
 ![Alt Text](../project-1/assets/image/about-us.png)
 
@@ -67,22 +69,35 @@ This website is for history enthusiasts and tourists alike, we will show you our
 
 Validator Testing:
 
+1. HTML
+- No errors were returned when passing through the official W3C validator
+2. CSS
+- No errors were found when passing through the official (Jigsaw) validator
+
 Unfixed Bug:
 
-Deployment:
+### Deployment:
+
+1. The site was deployed to GitHub pages. The steps to deploy are as follows:
+- In the GitHub repository, navigate to the Settings tab
+- From the source section drop-down menu, select the Master Branch
+- Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found here - 
 
 
 ### Credit:
 
-+ content 
-- Fhggfg
-- 
+#### Content 
+- The top 10 castles was taken from the tripadvisor page 'top ten castles in east anglia"
+- The icons in the about us section were taken from Font Awesome
 
-+media
-- Ghfgf
-- 
 
-I have to credit love running & trip advisor & google images 
+#### Media
+- The photos used were from the castles heritage websites
+
+
+
 
 
 

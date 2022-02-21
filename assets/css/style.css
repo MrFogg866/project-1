@@ -221,8 +221,12 @@ footer {
 
 /* castles images and information page */
 
+
+
+
 #photos > img {
-    width: 50%;
+    width: 100%;
+    
     
 }
 h1  {
