@@ -3,6 +3,8 @@
 
 This website is for history enthusiasts and tourists alike, we will show you our top 10 rated castles in east anglia, you will be able to see images and information about the castles along with direct links to the castles website.
 
+![Alt Text](../project-1/assets/image/screenshots.png)
+
 
 
 ## Features:
