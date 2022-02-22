@@ -53,6 +53,7 @@ This website is for history enthusiasts and tourists alike, we will show you our
 - Complete with eye catching images, and a paragraph of text to entice the user to further go into the castle website to get directions and check opening times.
 - All castles official webpage will be linked at the end of the paragraph
 
+![Alt Text](../project-1/assets/image/castle-page-readme-img.png)
 #### Newsletter Sign-up Page
 
 

@@ -226,6 +226,8 @@ footer {
 
 #photos > img {
     width: 100%;
+    margin-top: 10%;
+    
     
     
 }
@@ -236,11 +238,10 @@ h1  {
  section > p {
 
     border: solid 1px #000;
-    display: inline-block;
-    width: 30%;
-    position: top right;
-    padding-left: 70%;
-    
+    width: auto;
+    height: auto;
+    position: absolute;
+     
   }
 /* Form sign up page */
 
@@ -349,15 +350,11 @@ form > h2 {
     hr {
         display: none;
     }
-    }
-section > p {
-    right: 100%;
-    float: right;
+    
 
 
 
 
-}
   
     /* for medium screen sizes from 950px wide and down */
 @media screen and (max-width: 950px){
@@ -393,11 +390,3 @@ section > p {
         padding: 0 20px;
 
     }
-    section > p {
-right: 100%;
-float: right;
-
-    }
-
-   
-}
