@@ -68,6 +68,8 @@ This website is for history enthusiasts and tourists alike, we will show you our
 
 ### Testing 
 
+- Each pages responsiveness is tested using chrome development tools with the aim to allow the website/pages to resize itself and fit to any device as small as a iphone se (375 x 667) upto a nest hub max (1280 x 800) to allow for a great user experience.
+
 Validator Testing:
 
 1. HTML
@@ -76,6 +78,8 @@ Validator Testing:
 - No errors were found when passing through the official (Jigsaw) validator
 
 Unfixed Bug:
+
+- TBD 
 
 ### Deployment:
 
