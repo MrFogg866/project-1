@@ -72,6 +72,8 @@ This website is for history enthusiasts and tourists alike, we will show you our
 
 - Each pages responsiveness is tested using chrome development tools with the aim to allow the website/pages to resize itself and fit to any device as small as a iphone se (375 x 667) upto a nest hub max (1280 x 800) to allow for a great user experience.
 
+
+
 Validator Testing:
 
 1. HTML
@@ -83,6 +85,27 @@ Unfixed Bug:
 
 - TBD 
 
+### Technologies Used
+
+- HTML5 (markup language) was used for structuring and presenting content of the website.
+
+- CSS3 (Cascading Style Sheets) was used to provide the style to the content written in a HTML.
+
+- Balsamiq was used to create wireframes of the website (desktop and mobile version).
+
+- Google Fonts was used to import font-family "Lato" and "Oswald" into style,css file and which was used throughout the pages of the website.
+
+- Font Awesome was used to import icons to the sites.
+
+- Chrome developer tools was used to debug and test the source code using HTML5 as well as to test site responsiveness.
+
+- Github was used to create the repository and to store the project's code after pushed from Git.
+
+- Gitpod was used as the Code Editor for the site
+
+- W3C Markup and Jigsaw validation tools were used to validate the HTML code and CSS style used in the proejct.
+
+- Ami was used to develop a Mockup screenshot generator
 ### Deployment:
 
 1. The site was deployed to GitHub pages. The steps to deploy are as follows:
