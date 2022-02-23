@@ -96,6 +96,10 @@ Validator Testing:
 
 1. HTML
 - No errors were returned when passing through the official W3C validator
+
+![Alt text](../project-1/assets/image/html-check-home.png)
+![Alt text](../project-1/assets/image/html-check-castle.png)
+![Alt text](../project-1/assets/image/html-check-sign-up.png)
 2. CSS
 - No errors were found when passing through the official (Jigsaw) validator
 
