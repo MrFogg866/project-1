@@ -21,7 +21,7 @@ This website is for history enthusiasts and tourists alike, we will show you our
 - You will see on the homepage navigation bar 3 links to Home, Castles & Sign-up and this navigation bar is present throughout all pages.
 - This allows users to easily navigate through the site.
 
-![Alt Text](../project-1/assets/image/NAV-HEADER.png)
+![Alt Text](../project-1/assets/image/nav-header.png)
 
 
 #### Landing Page Image
