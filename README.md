@@ -61,6 +61,7 @@ This website is for history enthusiasts and tourists alike, we will show you our
 - Users can enter their first and last name along with their email address and hit the submit button to register for the newsletter.
 
 ![Alt Text](../project-1/assets/image/signup-page.png)
+![Alt Text](../project-1/assets/image/form-submit-reply.png)
 
 - Social media icons to redirect to the company’s social media accounts.
 
