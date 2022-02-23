@@ -26,6 +26,11 @@ h2 {
 
 }
 
+#secret{
+    
+    color: white;
+}
+
 #logo {
 
     float: left;
@@ -34,7 +39,7 @@ h2 {
 }
 
 section > h2 {
-    color: white;
+    color: black;
 }
 
 /* navigation links */
@@ -231,13 +236,14 @@ footer {
     width: 100%;
     margin-top: 10%;
     
-    border-top: 5%;
+    border-top: 0px;
     
     
     
 }
 h1  {
     float: right;
+    color: #000;
     
 }
  section > p {

@@ -15,8 +15,6 @@ This website is for history enthusiasts and tourists alike, we will show you our
 
 - There is also a sign-up feature you can  input your details to be registered to receive our monthly newsletter.
 
-### Existing Features:
-
 
 #### Navigation Bar
 
@@ -66,7 +64,7 @@ This website is for history enthusiasts and tourists alike, we will show you our
 
 - Social media icons to redirect to the company’s social media accounts.
 
-### Mock-ups
+## Mock-ups
 
 - Balsamiq was used to create wireframes of the website. This was very useful as it gives the template of the UI. Wireframes were designed for web browser and a mobile browser format. The concept design (wireframes) of webpages (3 pages) prepared is presented below.
 
@@ -77,18 +75,24 @@ This website is for history enthusiasts and tourists alike, we will show you our
 
 
 
-### Testing 
+## Testing 
 
 - Each pages responsiveness is tested using chrome development tools & lighthouse the 3 pages results are shown below
 
 ![Alt text](../project-1/assets/image/lighthouse-castles.png)
 ![Alt text](../project-1/assets/image/lighthouse-sign-up.png)
 
+I have tested my site on multiple devices. These include:
 
 
+- iPhone SE (375 x 667)
+- iPhone XR plus (414 x 896)
+- ipad mini (768 x 1024)
+- iPad air (820 x 1180)
+- nest hub max (1280 x 800)
 
 
-with the aim to allow the website/pages to resize itself and fit to any device as small as a iphone se (375 x 667) upto a nest hub max (1280 x 800) to allow for a great user experience.
+the aim is to allow the website to resize itself and fit to any device as small as a iphone se (375 x 667) upto a nest hub max (1280 x 800) to allow for a great user experience.
 
 
 
@@ -107,7 +111,7 @@ Unfixed Bug:
 
 - TBD 
 
-### Technologies Used
+## Technologies Used
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5) (markup language) was used for structuring and presenting content of the website.
 
@@ -131,7 +135,7 @@ Unfixed Bug:
 
 -  [Ami](http://ami.responsivedesign.is/) was used to develop a Mockup screenshot generator.
 
-### Deployment:
+## Deployment:
 
 1. The site was deployed to GitHub pages. The steps to deploy are as follows:
 - In the GitHub repository, navigate to the Settings tab
@@ -141,7 +145,7 @@ Unfixed Bug:
 The live link can be found here - https://mrfogg866.github.io/project-1/ 
 
 
-### Credit:
+## Credit:
 
 #### Content 
 - The top 10 castles was taken from the tripadvisor page 'top ten castles in east anglia"
