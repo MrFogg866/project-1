@@ -66,6 +66,15 @@ This website is for history enthusiasts and tourists alike, we will show you our
 
 - Social media icons to redirect to the company’s social media accounts.
 
+### Mock-ups
+
+- Balsamiq was used to create wireframes of the website. This was very useful as it gives the template of the UI. Wireframes were designed for web browser and a mobile browser format. The concept design (wireframes) of webpages (3 pages) prepared is presented below.
+
+![Alt text](../project-1/assets/image/balsamic-home.png)
+![Alt text](../project-1/assets/image/balsamic-castle.png)
+![Alt text](../project-1/assets/image/balsamic-castle2.png)
+![Alt text](../project-1/assets/image/balsamic-sign-up.png)
+
 
 
 ### Testing 
