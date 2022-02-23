@@ -147,13 +147,21 @@ The live link can be found here - https://mrfogg866.github.io/project-1/
 
 ## Credit:
 
-#### Content 
-- The top 10 castles was taken from the tripadvisor page 'top ten castles in east anglia"
-- The icons in the about us section were taken from Font Awesome
+### Code
+
+- The code for about us section on index.html page came from the Love Running projects
+
+- Coding for signup.html page was inspired from differnt tutorial from https://codeinstitute.net/
+- The icons in the about us section on index.html page came from Font Awesome
+- For README.md file, reference of https://github.com/dhakal79/Portfolio-project-MS1#testing and https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links was used.
+- Thanks to my mentor Marcel Mulders for his constructive feedback.
+
+### Content
+
+- All the contents for gallery.html page age came from https://www.tripadvisor.co.uk/Attractions-g186268-Activities-c47-t6-East_Anglia_England.html
 
 
-#### Media
-- The photos used were from the castles heritage websites
+- The front page castle hero image in index.html came from Google Images
 
 
 
