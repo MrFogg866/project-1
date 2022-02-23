@@ -108,6 +108,8 @@ Validator Testing:
 2. CSS
 - No errors were found when passing through the official (Jigsaw) validator
 
+![Alt text](../project-1/assets/image/jigsaw-css.png)
+
 Unfixed Bug:
 
 - TBD 
