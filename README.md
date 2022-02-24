@@ -60,7 +60,7 @@ This website is for history enthusiasts and tourists alike, we will show you our
 - The sign-up form allows users to register for a newsletter.
 - Users can enter their first and last name along with their email address and hit the submit button to register for the newsletter.
 
-![Alt Text](../project-1/assets/image/signup-page.png)
+![Alt Text](assets/image/signup-page.png)
 ![Alt Text](../project-1/assets/image/form-submit-reply.png)
 
 - Social media icons to redirect to the company’s social media accounts.
@@ -161,7 +161,7 @@ The live link can be found here - https://mrfogg866.github.io/project-1/
 
 ### Content
 
-- All the contents for gallery.html page age came from https://www.tripadvisor.co.uk/Attractions-g186268-Activities-c47-t6-East_Anglia_England.html
+- All the contents for gallery.html page came from https://www.tripadvisor.co.uk/Attractions-g186268-Activities-c47-t6-East_Anglia_England.html
 
 
 - The front page castle hero image in index.html came from Google Images
