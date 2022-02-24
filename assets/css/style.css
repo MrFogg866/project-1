@@ -242,9 +242,14 @@ footer {
     
 }
 h1  {
-    float: right;
+    position: center;
     color: #000;
     
+}
+section > h2 {
+  text-align: center;
+
+
 }
  section > p {
 
@@ -317,7 +322,7 @@ form > h2 {
 .form-section {
     background-image: url(../image/sign-up-castle.jpeg);
     width: 100vw;
-    height: 80vw;
+    height: 80vh;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
