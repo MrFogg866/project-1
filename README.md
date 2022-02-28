@@ -79,7 +79,7 @@ This website is for history enthusiasts and tourists alike, we will show you our
 
 ## Testing 
 
-- Each pages responsiveness is tested using chrome development tools & lighthouse the 3 pages results are shown below
+- Each pages responsiveness is tested visually and by using chrome development tools & lighthouse the 3 pages results are shown below
 ![testing outcome forms](assets/image/nav-bar-testing-outcomes.png)
 ![lighthouse testing results](assets/image/lighthouse-castles.png)
 ![testing outcome forms](assets/image/footer-testing-outcomes.png)
@@ -160,7 +160,9 @@ The live link can be found here - https://mrfogg866.github.io/project-1/
 - Coding for signup.html page was inspired from differnt tutorial from https://codeinstitute.net/
 - The icons in the about us section on index.html page came from Font Awesome
 - For README.md file, reference of https://github.com/dhakal79/Portfolio-project-MS1#testing and https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links was used.
+- The code for the embedded map was from [Google Maps](https://www.google.co.uk/maps/@52.6294154,1.2939998,17z)
 - Thanks to my mentor Marcel Mulders for his constructive feedback.
+
 
 ### Content
 
