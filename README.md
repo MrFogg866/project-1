@@ -4,7 +4,7 @@ The live link can be found here - https://mrfogg866.github.io/project-1/
 
 This website is for history enthusiasts and tourists alike, we will show you our top 10 rated castles in east anglia, you will be able to see images and information about the castles along with direct links to the castles website.
 
-![Alt Text](assets/image/screenshots.png)
+![homepage screenshot](assets/image/screenshots.png)
 
 
 
@@ -22,7 +22,7 @@ This website is for history enthusiasts and tourists alike, we will show you our
 - You will see on the homepage navigation bar 3 links to Home, Castles & Sign-up and this navigation bar is present throughout all pages.
 - This allows users to easily navigate through the site.
 
-![Alt Text](assets/image/nav-header.png)
+![nav screenshot](assets/image/nav-header.png)
 
 
 #### Landing Page Image
@@ -31,7 +31,7 @@ This website is for history enthusiasts and tourists alike, we will show you our
 - This includes some text over the top .
 - And has been designed to expand when opening to give a moving effect.
 
-![Alt Text](assets/image/landing-page.png)
+![hero image](assets/image/landing-page.png)
 
 #### About Us Section
 
@@ -39,14 +39,14 @@ This website is for history enthusiasts and tourists alike, we will show you our
 - The English heritage logo is used 
  
 
-![Alt Text](assets/image/about-us.png)
+![about us](assets/image/about-us.png)
 
 #### The Footer
 
 - Here the user will find icons to our social media accounts, such as  Facebook, twitter & instagram.
 - The links will open to a new tab to allow easy navigation for the user.
 
-![Alt Text](assets/image/footer.png)
+![footer](assets/image/footer.png)
 
 #### Castle Page
 
@@ -54,15 +54,15 @@ This website is for history enthusiasts and tourists alike, we will show you our
 - Complete with eye catching images, and a paragraph of text to entice the user to further go into the castle website to get directions and check opening times.
 - All castles official webpage will be linked at the end of the paragraph
 
-![Alt Text](assets/image/castle-page-readme-img.png)
+![castles page](assets/image/castle-page-readme-img.png)
 #### Newsletter Sign-up Page
 
 
 - The sign-up form allows users to register for a newsletter.
 - Users can enter their first and last name along with their email address and hit the submit button to register for the newsletter.
 
-![Alt Text](assets/image/signup-page.png)
-![Alt Text](assets/image/form-submit-reply.png)
+![sign-up](assets/image/signup-page.png)
+![success](assets/image/form-submit-reply.png)
 
 - Social media icons to redirect to the company’s social media accounts.
 
@@ -70,21 +70,21 @@ This website is for history enthusiasts and tourists alike, we will show you our
 
 - Balsamiq was used to create wireframes of the website. This was very useful as it gives the template of the UI. Wireframes were designed for web browser and a mobile browser format. The concept design (wireframes) of webpages (3 pages) prepared is presented below.
 
-![Alt text](assets/image/balsamic-home.png)
-![Alt text](assets/image/balsamic-castle.png)
-![Alt text](assets/image/balsamic-castle2.png)
-![Alt text](assets/image/balsamic-sign-up.png)
+![balsamic home](assets/image/balsamic-home.png)
+![balsamic castle](assets/image/balsamic-castle.png)
+![balsamic castle 2](assets/image/balsamic-castle2.png)
+![balsamic sign-up](assets/image/balsamic-sign-up.png)
 
 
 
 ## Testing 
 
 - Each pages responsiveness is tested using chrome development tools & lighthouse the 3 pages results are shown below
-![Alt text](assets/image/nav-bar-testing-outcomes.png)
-![Alt text](assets/image/lighthouse-castles.png)
-![Alt text](assets/image/footer.png)
-![Alt text](assets/image/lighthouse-sign-up.png)
-![Alt Text](assets/image/overall-testing-outcomes.png)
+![testing outcome forms](assets/image/nav-bar-testing-outcomes.png)
+![lighthouse testing results](assets/image/lighthouse-castles.png)
+![testing outcome forms](assets/image/footer-testing-outcomes.png)
+![lighthouse testing results](assets/image/lighthouse-sign-up.png)
+![testing outcome forms](assets/image/overall-testing-outcomes.png)
 
 I have tested my site on multiple devices. These include:
 
@@ -105,13 +105,13 @@ Validator Testing:
 1. HTML
 - No errors were returned when passing through the official W3C validator
 
-![Alt text](assets/image/html-check-home.png)
-![Alt text](assets/image/html-check-castle.png)
-![Alt text](assets/image/html-check-sign-up.png)
+![w3c success home](assets/image/html-check-home.png)
+![w3c success castle](assets/image/html-check-castle.png)
+![w3c success sign-up](assets/image/html-check-sign-up.png)
 2. CSS
 - No errors were found when passing through the official (Jigsaw) validator
 
-![Alt text](assets/image/jigsaw-css.png)
+![jigsaw success css](assets/image/jigsaw-css.png)
 
 Unfixed Bug:
 
