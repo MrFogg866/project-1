@@ -80,9 +80,9 @@ This website is for history enthusiasts and tourists alike, we will show you our
 ## Testing 
 
 - Each pages responsiveness is tested visually and by using chrome development tools & lighthouse the 3 pages results are shown below
-![testing outcome forms](assets/image/nav-bar-testing-outcomes.png)
+![testing outcome forms](assets/image/nav-test-outcome.png)
 ![lighthouse testing results](assets/image/lighthouse-castles.png)
-![testing outcome forms](assets/image/footer-testing-outcomes.png)
+![testing outcome forms](assets/image/footer-test-outcome.png)
 ![lighthouse testing results](assets/image/lighthouse-sign-up.png)
 ![testing outcome forms](assets/image/overall-testing-outcomes.png)
 
