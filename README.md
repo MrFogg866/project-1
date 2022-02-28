@@ -80,9 +80,11 @@ This website is for history enthusiasts and tourists alike, we will show you our
 ## Testing 
 
 - Each pages responsiveness is tested using chrome development tools & lighthouse the 3 pages results are shown below
-
+![Alt text](assets/image/nav-bar-testing-outcomes.png)
 ![Alt text](assets/image/lighthouse-castles.png)
+![Alt text](assets/image/footer.png)
 ![Alt text](assets/image/lighthouse-sign-up.png)
+![Alt Text](assets/image/overall-testing-outcomes.png)
 
 I have tested my site on multiple devices. These include:
 
