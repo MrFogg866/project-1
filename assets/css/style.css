@@ -1,16 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@300&display=swap');
 
 * {
-
     margin: 0;
     padding: 0;
     border: none;
-
 }
 
-
 body {
-
     font-family: lato, sans-serif;
     font-weight: 300;
     color: black;
@@ -25,16 +21,13 @@ h2 {
     text-transform: uppercase;
     letter-spacing: 4px;
     color: black;
-
 }
 
 #secret{
-    
     color: white;
 }
 
 #logo {
-
     float: left;
     font-size: 280%;
     margin-left: 30px;
@@ -55,7 +48,6 @@ section > h2 {
 #menu,
 #logo {
     line-height: 75px;
-
 }
 
 #menu li {
@@ -65,14 +57,12 @@ section > h2 {
 }
 
 #menu a {
-
     text-decoration: none;
     color: inherit;
 }
 
 #menu a:hover {
     border-bottom: 1px solid black;
-
 }
 
 .active {
@@ -85,14 +75,12 @@ section > h2 {
     height: 600px;
     width: 100%;
     overflow: hidden;
-
     position: relative;
 }
 
 #cover-text, #cover-text h2 {
     color: white;
     background-color: transparent;
-
 }
 
 
@@ -110,7 +98,6 @@ section > h2 {
 /* creates the level of zoon for hero image */
 @keyframes hero-zoom {
     from { transform: scale(1);}
-
     to {transform: scale(1.1);}
 }
 
@@ -119,21 +106,14 @@ section > h2 {
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-
     width: 300px;
     height: 200px;
-
     padding-top: 40px;
     padding-left: 10px;
-
     background-color: rgba(0, 116, 223, 0.3); 
-
     bottom: 30px;
     right: 150px;
-
     position: absolute;
-
-
 }
 
 /* club ethos */
@@ -154,8 +134,6 @@ hr {
     padding-top: 30px;
     width: 33%;
     float: left;
-    
-
 }
 
     #right-about {
@@ -205,7 +183,6 @@ hr {
             border-width: 1px;
             border-radius: 50%;
             margin: 0 auto;
-        
         } 
         #circle-cover-bg {
             background: url('../image/heritage-logo.PNG') no-repeat center center;
@@ -439,5 +416,10 @@ form > h2 {
     position:absolute;
 }
 
+.map-responsive{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 }
