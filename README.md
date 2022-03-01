@@ -46,6 +46,7 @@ This website is for history enthusiasts and tourists alike, we will show you our
 - Here the user will find icons to our social media accounts, such as  Facebook, twitter & instagram.
 - The links will open to a new tab to allow easy navigation for the user.
 
+
 ![footer](assets/image/footer.png)
 
 #### Castle Page
@@ -64,9 +65,33 @@ This website is for history enthusiasts and tourists alike, we will show you our
 ![sign-up](assets/image/signup-page.png)
 ![success](assets/image/form-submit-reply.png)
 
-- Social media icons to redirect to the company’s social media accounts.
+ ## User Goals:
 
-## Mock-ups
+#### First Time Visitor Goals
+
+- As a First Time Visitor, I want to learn about the best castles available to visit in East Anglia
+- As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+- As a First Time Visitor, I want to links to the castle website along with social media pages for more tips and recommendations.
+
+#### Returning Visitor Goals
+
+- As a Returning Visitor, I want to find information about Castles and any special events 
+- As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have, having all the castle links on one page is very helpful and saves me time.
+- Frequent User Goals
+- As a Frequent User, I want to check to see if there are any newly added events or updates.
+- As a Frequent User, I want to check to see and read about other peoples experiences via the social media links.
+
+#### User Expectations:
+
+- The content should explain bit of the historic significance of the castle along with imagery.
+- The content is displayed in a clear and understanding format.
+- The user interface is easy to navigate.
+- The website is responsive on all devices this includes mobile, tablet and desktop.
+- To have the ability to sign up for a newsletter.
+
+
+
+## Mock-ups:
 
 - Balsamiq was used to create wireframes of the website. This was very useful as it gives the template of the UI. Wireframes were designed for web browser and a mobile browser format. The concept design (wireframes) of webpages (3 pages) prepared is presented below.
 
