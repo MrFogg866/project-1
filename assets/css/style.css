@@ -230,7 +230,7 @@ text-align: center;
 }
 
 section > p {
-border: solid 1px #000;
+
 max-width: fit-content;
 height: auto;
 text-align: center;
